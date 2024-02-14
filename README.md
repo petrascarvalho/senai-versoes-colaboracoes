@@ -1,3 +1,3 @@
-# senai-versoes-coladoracoes
+# senai-versoes-colaboracoes
 
 readme de exemplo
