@@ -1,3 +1,6 @@
 # senai-versoes-colaboracoes
 
-readme de exemplo
+# Projeto Exemplo
+Repositório criado com o objetivo de compartilhar 
+
+lembrei do comando: git status
